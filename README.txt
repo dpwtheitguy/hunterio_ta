@@ -20,6 +20,9 @@ Apache 2.0
 see: https://www.hunter.io
 see: http://www.oldlogsnewtricks.com
 
+### Contribute
+see: https://github.com/dpwtheitguy/hunterio_ta
+
 ### Author
 daniel . p . wilson@live.com
 
@@ -27,3 +30,6 @@ daniel . p . wilson@live.com
 1) Error checking
 2) Needs a Splunk GUI
 3) Provide Sample searches
+
+### History
+1.2.2021 - dwilson, initial version
