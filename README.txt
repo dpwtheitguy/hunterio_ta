@@ -22,3 +22,8 @@ see: http://www.oldlogsnewtricks.com
 
 ### Author
 daniel . p . wilson@live.com
+
+### Known Issues/Todo
+1) Error checking
+2) Needs a Splunk GUI
+3) Provide Sample searches
