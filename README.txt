@@ -2,7 +2,7 @@
 This app creates a streaming Splunk command which enriches your logs with email addresses from hunter.io when provided a domain as a field. 
 
 ### TA for HunterIO
--- license data goes here --
+Apache 2.0
 
 ### Installation
 1) Install TA
